@@ -1,16 +1,3 @@
-# HOW TO INSTALL
- 
-- Download [NativeLoader](https://github.com/laughingbank/NativePreferences/releases/latest/download/NativeLoader.dll) and put this in your mods folder.
-- Download [NativePreferences](https://github.com/laughingbank/NativePreferences/releases/latest/download/NativePreferences.dll) and put it in your vrchat folder
-- Download [ReMod.Core](https://github.com/RequiDev/ReMod.Core/releases/latest/download/ReMod.Core.dll) and put it in your vrchat folder
-
-# INFO
-This mod was created by [Dotlezz](https://github.com/Dotlezz) but he deleted the original repo and doesn't want to maintain it. All credit goes to him except for whatever changes I make to this mod. I recommend compiling the mod from source if you don't know me personally!
-
-# Contributors
-- Dotlezz for all the code 
-- Null (Helped fix Popup crash and change to IMGUIModule)
-
 # NativePreferences
 A local favorites mod for VRChat.  
 Create an [issue](https://github.com/laughingbank/NativePreferences/issues/new) if you see the mod stop functioning.
@@ -34,6 +21,7 @@ If you want me to add these back make an issue
 - ~~Loads the latest version from GitHub~~
 - ~~Automatic ReMod.Core install and updates~~
 
+
 # Previews
 Please note that these previews where photoshopped to remove any identifying factors.
 
@@ -41,3 +29,15 @@ Please note that these previews where photoshopped to remove any identifying fac
 
 ![BigMenu](https://github.com/laughingbank/NativePreferences/blob/main/Previews/AvatarListandIDPreview.png?raw=true)
 
+# How to install
+ 
+- Download [NativeLoader](https://github.com/laughingbank/NativePreferences/releases/latest/download/NativeLoader.dll) and put this in your mods folder.
+- Download [NativePreferences](https://github.com/laughingbank/NativePreferences/releases/latest/download/NativePreferences.dll) and put it in your vrchat folder
+- Download [ReMod.Core](https://github.com/RequiDev/ReMod.Core/releases/latest/download/ReMod.Core.dll) and put it in your vrchat folder
+
+# Info
+This mod was created by [Dotlezz](https://github.com/Dotlezz) but he deleted the original repo and doesn't want to maintain it. All credit goes to him except for whatever changes I make to this mod. I recommend compiling the mod from source if you don't know me personally!
+
+# Contributors
+- Dotlezz for all the code 
+- Null (Helped fix Popup crash and change to IMGUIModule)
