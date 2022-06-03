@@ -22,7 +22,7 @@ Create an [issue](https://github.com/laughingbank/NativePreferences/issues/new) 
 - Favorites Compatibility with anything using the ReAvatar format
 - Clean UI that works with UI changing mods ([Styletor](https://github.com/knah/VRCMods#styletor))
 
-# Removed Features from original
+# Removed Features from the original
 If you want me to add these back make an issue 
 
 - ~~Loads the latest version from GitHub~~
