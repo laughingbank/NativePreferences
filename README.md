@@ -1,4 +1,4 @@
-[![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/laughingbank/NativePreferences/6.1.1.4/NativeLoader.dll?color=blue&label=download&logo=GitHub&style=flat-square)](https://github.com/laughingbank/NativePreferences/releases/download/6.1.1.4/NativeLoader.dll)  
+[![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/laughingbank/NativePreferences/6.1.1.5/NativeLoader.dll?color=blue&label=download&logo=GitHub&style=flat-square)](https://github.com/laughingbank/NativePreferences/releases/download/6.1.1.5/NativeLoader.dll)  
 [![GitHub](https://img.shields.io/github/license/laughingbank/NativePreferences?style=flat-square)](https://github.com/Dotlezz/NativePreferences/blob/main/LICENSE)
 
 # Contributors
