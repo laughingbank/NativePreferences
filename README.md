@@ -5,7 +5,7 @@
 - Download [ReMod.Core](https://github.com/RequiDev/ReMod.Core/releases/latest/download/ReMod.Core.dll) and put it in your vrchat folder
 
 # INFO
-This mod was created by Dotlezz but he deleted the original repo and doesn't want to maintain it. All credit goes to him except for whatever changes I make to this mod. I recommend compiling the mod from source if you don't know me personally!
+This mod was created by [Dotlezz](https://github.com/Dotlezz) but he deleted the original repo and doesn't want to maintain it. All credit goes to him except for whatever changes I make to this mod. I recommend compiling the mod from source if you don't know me personally!
 
 # Contributors
 - Dotlezz for all the code 
