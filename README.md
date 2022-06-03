@@ -21,8 +21,6 @@ Create an [issue](https://github.com/laughingbank/NativePreferences/issues/new) 
 - Copy Avatar Info to Clipboard, and Melonloader Console
 - Favorites Compatibility with anything using the ReAvatar format
 - Clean UI that works with UI changing mods ([Styletor](https://github.com/knah/VRCMods#styletor))
-- Loads the latest version from GitHub
-- Automatic ReMod.Core install and updates
 
 # Previews
 Please note that these previews where photoshopped to remove any identifying factors.
