@@ -1,5 +1,11 @@
-[![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/laughingbank/NativePreferences/6.1.1.5/NativeLoader.dll?color=blue&label=download&logo=GitHub&style=flat-square)](https://github.com/laughingbank/NativePreferences/releases/download/6.1.1.5/NativeLoader.dll)  
-[![GitHub](https://img.shields.io/github/license/laughingbank/NativePreferences?style=flat-square)](https://github.com/Dotlezz/NativePreferences/blob/main/LICENSE)
+# HOW TO INSTALL
+ 
+- Download [NativeLoader](https://github.com/laughingbank/NativePreferences/releases/latest/download/NativeLoader.dll) and put this in your mods folder.
+- Download [NativePreferences](https://github.com/laughingbank/NativePreferences/releases/latest/download/NativePreferences.dll) and put it in your vrchat folder
+- Download [ReMod.Core](https://github.com/RequiDev/ReMod.Core) and put it in your vrchat folder
+
+# INFO
+This mod was created by Dotlezz but he deleted the original repo and doesn't want to maintain it. All credit goes to him except for whatever changes I make to this mod. I reccomend compliling the mod from source if you don't know me personally!
 
 # Contributors
 - Dotlezz for all the code 
@@ -35,6 +41,3 @@ Please note that these previews where photoshopped to remove any identifying fac
 
 ![BigMenu](https://github.com/laughingbank/NativePreferences/blob/main/Previews/AvatarListandIDPreview.png?raw=true)
 
-# How To
-To convert an old ReMod CE Favorite.json or a Fumo Client Favorite.json locate and rename the file to NativePreferences.json and place it in your set file directory.  
-Default file directory is VRChat's install location then "UserData".
