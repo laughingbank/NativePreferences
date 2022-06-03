@@ -25,8 +25,8 @@ Create an [issue](https://github.com/laughingbank/NativePreferences/issues/new) 
 # Removed Features from original
 If you want me to add these back make an issue 
 
--~~- Loads the latest version from GitHub~~
--~~- Automatic ReMod.Core install and updates~~
+- ~~Loads the latest version from GitHub~~
+- ~~Automatic ReMod.Core install and updates~~
 
 # Previews
 Please note that these previews where photoshopped to remove any identifying factors.
