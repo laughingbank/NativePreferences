@@ -53,3 +53,8 @@ dkms.conf
 
 obj/
 bin/
+
+/NativeLoader/obj/
+/NativeLoader/bin/ 
+/NativePreferences/obj/
+/NativePreferences/bin/
