@@ -7,7 +7,7 @@ using System.Reflection;
 using System.Security.Cryptography;
 using NativeLoader;
 
-[assembly: MelonInfo(typeof(MelonEntry), "NativeLoader", "1.0.4.3")]
+[assembly: MelonInfo(typeof(MelonEntry), "NativeLoader", "1.0.4.3", "meow")]
 [assembly: MelonGame("VRChat", "VRChat")]
 [assembly: MelonColor(ConsoleColor.DarkMagenta)]
 
