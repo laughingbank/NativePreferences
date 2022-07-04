@@ -33,7 +33,7 @@ Please note that these previews where photoshopped to remove any identifying fac
  
 - Download [NativeLoader](https://github.com/laughingbank/NativePreferences/releases/latest/download/NativeLoader.dll) and put this in your mods folder.
 - Download [NativePreferences](https://github.com/laughingbank/NativePreferences/releases/latest/download/NativePreferences.dll) and put it in your vrchat folder
-- Download [ReMod.Core](https://github.com/RequiDev/ReMod.Core/releases/latest/download/ReMod.Core.dll) and put it in your vrchat folder
+- Download [ReMod.Core](https://github.com/RequiDev/ReMod.Core/releases/latest/download/ReMod.Core.dll) and put it in the UserLibs folder
 
 # Info
 This mod was created by [Dotlezz](https://github.com/Dotlezz) but he deleted the original repo and doesn't want to maintain it. All credit goes to him except for whatever changes I make to this mod. I recommend compiling the mod from source if you don't know me personally!
